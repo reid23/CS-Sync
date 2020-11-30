@@ -28,7 +28,9 @@ class Hero:
     else:
       print(self.name + " does not have enought stamina to attack")
       
-  
+class monster:
+  def _init_(self):
+      
 
 
 hero = Hero()
